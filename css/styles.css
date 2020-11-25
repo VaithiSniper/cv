@@ -1,0 +1,95 @@
+.colornav {
+    background-color: #9000B3;
+}
+
+body {
+    background-color: #7E007B;
+}
+
+div,section{
+    color: #F7B6C7;
+}
+
+h1 {
+    font-family: Official, sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+    font-weight: 100;
+}
+
+hr {
+  border-color:floralwhite;
+    width:120px;
+    border-style: dotted none none none;
+    border-width:20px;
+
+   height:20px;
+}
+
+.card {
+    border-width: thick;
+    margin: 2%;
+    margin-top: 10%;
+
+}
+
+#zephyr-intro {
+    font-size: 150%;
+}
+
+i {
+    padding: 1%;
+}
+
+.card-title {
+    text-decoration: underline;
+    text-decoration-color: ghostwhite;
+    text-decoration-style: dashed;
+
+}
+
+.download-buttons
+{
+    display: flex;
+    justify-content: center;
+}
+.navbar
+{
+    font-family: 'Ubuntu', sans-serif;
+  font-weight: 600;
+}
+.navbar-brand
+{
+    font-size: 2rem;
+}
+.steps-cards
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.steps-title {
+    padding-left: 18px;
+}
+
+.test-images
+{
+    text-align: center;max-height: 18rem; max-width: 18rem; border-top-left-radius: 10%; border-bottom-right-radius: 10%; padding: 1%; margin-top:0;background-color:#9000B3; 
+}
+#press {
+    padding-top:5rem;
+}
+
+.logos {
+    padding: 5rem,40%;
+}
+
+.btn:hover {
+    background: #b300b3;!important
+}
+@media (max-width:360px)
+{
+    body{
+       color:azure;
+    }
+}
